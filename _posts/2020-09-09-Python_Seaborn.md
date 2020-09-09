@@ -66,6 +66,3 @@ sns.그래프명(data = 데이터프레임, x = 'x축에 들어갈 데이터 컬
                  from folium.plugins import MarkerCluster를 통해 불러와 사용한다.
                  변수 = MarkerCluster() %>% 변수.add_to(지도 변수명) 으로 사용한다.
               
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
